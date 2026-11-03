@@ -1,0 +1,278 @@
+# ==============================
+# PERFORMANCE & SEO OPTIMIZED
+# ==============================
+ 
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+
+  RewriteRule ^blogsitemap\.xml$ blogsitemap.php [L]
+
+  # 1) Force HTTPS + WWW (host normalization only — keep the path untouched)
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} !^www\.cypherox\.com$ [NC]
+  RewriteRule ^ https://www.cypherox.com%{REQUEST_URI} [L,R=301]
+
+  # Redirect old generative AI page to new URL
+  RewriteRule ^generative-ai-platforms-solution/?$ /generative-ai-development-services [R=301,L]
+  
+# Redirect old generative AI page to new URL - 13-08-2026 - START
+
+RewriteRule ^ada-health-clone-development/?$ /ada-health-clone [R=301,L]
+RewriteRule ^ai-and-ml-strategy-consulting-services/?$ /artificial-intelligence-and-machine-learning-services [R=301,L]
+RewriteRule ^ai-chatbot-app-solutions/?$ /ai-chatbot-mobile-app-solutions [R=301,L]
+RewriteRule ^ai-content-generator-automated-writing-solutions/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^ai-influencer-generator-clone/?$ /clone-solutions [R=301,L]
+RewriteRule ^ai-powered-chatbots-and-virtual-assistants-services/?$ /artificial-intelligence-and-machine-learning-services [R=301,L]
+RewriteRule ^ai-powered-recommendation-system-solutions/?$ /artificial-intelligence-and-machine-learning-services [R=301,L]
+RewriteRule ^ar-vr-consulting-strategy-services/?$ /virtual-reality-and-augmented-reality-solutions [R=301,L]
+RewriteRule ^automated-machine-learning-services/?$ /artificial-intelligence-and-machine-learning-services [R=301,L]
+RewriteRule ^b2b-communication-and-collaboration-app-solutions/?$ /b2b-mobile-app-development-services [R=301,L]
+RewriteRule ^b2b-ecommerce-platform-solutions/?$ /b2b-mobile-app-development-services [R=301,L]
+RewriteRule ^b2b-logistics-and-delivery-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^b2b-marketplace-solution/?$ /b2b-mobile-app-development-services [R=301,L]
+RewriteRule ^b2b-sales-enablement-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^b2c-communication-and-collaboration-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^b2c-logistics-and-delivery-app-solutions/?$ /b2c-mobile-app-development-services [R=301,L]
+RewriteRule ^b2c-marketplace-solution/?$ /b2c-mobile-app-development-services [R=301,L]
+RewriteRule ^b2c-sales-enablement-app-solutions/?$ /b2c-mobile-app-development-services [R=301,L]
+RewriteRule ^blockchain-integration-services/?$ /blockchain-development-services [R=301,L]
+RewriteRule ^blockchain-solution-design-and-development/?$ /blockchain-development-services [R=301,L]
+RewriteRule ^blockchain-strategy-consulting-services/?$ /blockchain-development-services [R=301,L]
+RewriteRule ^cloud-architecture-and-design-services/?$ /cloud-and-devops-services [R=301,L]
+RewriteRule ^cloud-security-services/?$ /cloud-and-devops-services [R=301,L]
+RewriteRule ^convert-a-spreadsheet-into-an-app-services/?$ /application-development [R=301,L]
+RewriteRule ^convert-visual-basic-app-into-ios-and-android-app-services/?$ /application-development [R=301,L]
+RewriteRule ^convert-your-website-into-an-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^convert-your-website-into-ios-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^convert-your-website-to-android-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^data-analysis-and-modeling-solutions/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^data-analytics-strategy-consulting-solutions/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^data-collection-and-management-services/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^data-maintenance-and-support-services/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^data-security-and-privacy-services/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^data-visualization-services/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^data-warehousing-and-business-intelligence-solutions/?$ /data-analytics-solutions [R=301,L]
+RewriteRule ^design-and-prototype-development-services/?$ /ui-ux-design-services [R=301,L]
+RewriteRule ^dialogue-systems-solution/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^event-planning-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^health-and-wellness-apps-solutions/?$ /application-development [R=301,L]
+RewriteRule ^hire-expert/?$ /hire-dedicated-developers [R=301,L]
+RewriteRule ^infrastructure-as-code-iac-solutions/?$ /cloud-and-devops-services [R=301,L]
+RewriteRule ^job-search-apps-solutions/?$ /application-development [R=301,L]
+RewriteRule ^language-learning-apps-solutions/?$ /application-development [R=301,L]
+RewriteRule ^mental-health-apps-solutions/?$ /application-development [R=301,L]
+RewriteRule ^mobile-app-design-development-services/?$ /application-development [R=301,L]
+RewriteRule ^mobile-application-solutions/?$ /application-development [R=301,L]
+RewriteRule ^model-interpretation-and-explanation-solutions/?$ /artificial-intelligence-and-machine-learning-services [R=301,L]
+RewriteRule ^news-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^personal-finance-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^personal-shopping-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^photo-and-video-industry-services/?$ /services [R=301,L]
+RewriteRule ^psd-to-html-development-services/?$ /ui-ux-design-services [R=301,L]
+RewriteRule ^question-and-answer-system-solutions/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^recipe-app-solutions/?$ /services [R=301,L]
+RewriteRule ^reinforcement-learning-solutions/?$ /artificial-intelligence-and-machine-learning-services [R=301,L]
+RewriteRule ^ruby-on-rails-app-development-services/?$ /framework-app-development-services [R=301,L]
+RewriteRule ^shopify-development-company/?$ /shopify-development-services [R=301,L]
+RewriteRule ^startup-it-consulting-services/?$ /consulting-services [R=301,L]
+RewriteRule ^text-generation-for-game-design-solutions/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^text-to-speech-and-speech-to-text-solutions/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^transport-app-solutions/?$ /application-development [R=301,L]
+RewriteRule ^virtual-education-and-training-services/?$ /services [R=301,L]
+RewriteRule ^virtual-event-hosting-and-management-solutions/?$ /services [R=301,L]
+RewriteRule ^virtual-identity-and-avatar-management-services/?$ /services [R=301,L]
+RewriteRule ^virtual-research-assistant-solutions/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^voice-user-interface-vui-solutions/?$ /generative-ai-development-services [R=301,L]
+RewriteRule ^vr-ar-solution-design-and-development-services/?$ /virtual-reality-and-augmented-reality-solutions [R=301,L]
+
+RewriteRule ^technology/angularjs/?$ /technology [R=301,L]
+RewriteRule ^technology/clickfunnel/?$ /technology [R=301,L]
+RewriteRule ^technology/codeigniter/?$ /services [R=301,L]
+RewriteRule ^technology/corephp/?$ /technology [R=301,L]
+RewriteRule ^technology/hubspot/?$ /technology [R=301,L]
+RewriteRule ^technology/kajabi/?$ /technology [R=301,L]
+RewriteRule ^technology/laravel/?$ /technology [R=301,L]
+RewriteRule ^technology/nodejs/?$ /technology [R=301,L]
+RewriteRule ^technology/shopify/?$ /technology [R=301,L]
+
+RewriteRule ^service/botsify/?$ /services [R=301,L]
+RewriteRule ^service/chatbots/?$ /services [R=301,L]
+RewriteRule ^service/dialogflow/?$ /services [R=301,L]
+RewriteRule ^service/mobile-app-development/corona/?$ /application-development [R=301,L]
+RewriteRule ^service/mobile-app-development/native/?$ /application-development [R=301,L]
+RewriteRule ^service/mobile-app-development/phonegap/?$ /application-development [R=301,L]
+RewriteRule ^service/search-engine-optimization/?$ /services [R=301,L]
+RewriteRule ^service/website-cloning/?$ /clone-solutions [R=301,L]
+
+RewriteRule ^industries/b2b-b2c-e-commerce/?$ /service-industry [R=301,L]
+RewriteRule ^industries/health-care/?$ /service-industry [R=301,L]
+RewriteRule ^industries/music-entertainment/?$ /service-industry [R=301,L]
+RewriteRule ^industries/recruitment-portal/?$ /service-industry [R=301,L]
+
+
+
+RewriteRule ^order-now/?$ /get-in-touch [R=301,L]
+RewriteRule ^portfolio/?$ /our-work/ [R=301,L]
+RewriteRule ^real-estate-virtual-assistant-development-and-management-solutions/?$ /virtual-assistant-services [R=301,L]
+RewriteRule ^virtual-commerce-and-transactions-services/?$ /virtual-reality-and-augmented-reality-solutions [R=301,L]
+RewriteRule ^virtual-community-building-solutions/?$ /virtual-reality-and-augmented-reality-solutions [R=301,L]
+RewriteRule ^virtual-marketing-services/?$ /virtual-reality-and-augmented-reality-solutions [R=301,L]
+
+RewriteRule ^technology/kartra/?$ /technology [R=301,L]
+RewriteRule ^technology/wordpress/?$ /wordpress-development-services [R=301,L]
+
+RewriteRule ^service/digital-marketing/?$ /hire-digital-marketers [R=301,L]
+RewriteRule ^service/mobile-app-development/?$ /application-development [R=301,L]
+RewriteRule ^service/mobile-app-development/reactnative/?$ /react-native-app-development-services [R=301,L]
+
+RewriteRule ^industries/agriculture/?$ /agriculture-industry-services [R=301,L]
+RewriteRule ^industries/real-estate/?$ /real-estate-industry-services [R=301,L]
+RewriteRule ^industries/restaurant-food/?$ /food-and-drink-industry-services [R=301,L]
+RewriteRule ^industries/social-network/?$ /social-networking-industry-services [R=301,L]
+RewriteRule ^industries/transportation-logistics/?$ /transportation-industry-services [R=301,L]
+
+
+
+RewriteRule ^about/?$ /about-us [R=301,L]
+RewriteRule ^contact/?$ /get-in-touch [R=301,L]
+RewriteRule ^hire-metaverse-developers/?$ /hire-vr-developers [R=301,L]
+RewriteRule ^metaverse-development-services/?$ /virtual-reality-and-augmented-reality-solutions [R=301,L]
+RewriteRule ^rizz-ai-clone-development/?$ /rizz-ai-clone [R=301,L]
+
+RewriteRule ^technologies/?$ /technology [R=301,L]
+
+RewriteRule ^service/ecommerce-development/?$ /e-commerce-development-services [R=301,L]
+RewriteRule ^service/on-demand-app-development/?$ /on-demand-delivery-industry-services [R=301,L]
+RewriteRule ^service/web-development/?$ /web-development-solutions [R=301,L]
+
+RewriteRule ^industries/education/?$ /education-industry-services [R=301,L]
+
+RewriteRule ^qanda/best-framework-for-desktop-and-web/?$ /framework-app-development-services [R=301,L]
+RewriteRule ^qanda/customize-bundle-contents-dynamically-on-shopify-product-pages/?$ /shopify-development-services [R=301,L]
+RewriteRule ^qanda/display-real-time-stock-item-shopify-cart-drawer/?$ /shopify-development-services [R=301,L]
+RewriteRule ^qanda/is-swift-still-best-choice-ios-development-2025/?$ /ios-app-development-services [R=301,L]
+RewriteRule ^qanda/kotlin-vs-java-android-development/?$ /android-app-development-services [R=301,L]
+RewriteRule ^qanda/prevent-duplicate-cart-items-adding-same-product-custom-properties/?$ /shopify-development-services [R=301,L]
+RewriteRule ^qanda/react-native-vs-flutter-framework-comparison-2025/?$ /react-native-app-development-services [R=301,L]
+RewriteRule ^qanda/shopify-dynamic-product-images-javascript-liquid-guide/?$ /shopify-development-services [R=301,L]
+RewriteRule ^qanda/shopify-metafields-guide-create-multiple-images-same-variant/?$ /shopify-development-services [R=301,L]
+RewriteRule ^qanda/update-shopify-cart-drawer-without-page-refresh/?$ /shopify-development-services [R=301,L]
+
+RewriteRule ^our-work/cartella/?$ /our-work/ [R=301,L]
+
+
+
+
+#RewriteRule ^e-commerce-development-services/?$ /service/ecommerce-development [R=301,L]
+RewriteRule ^modern-web-development-services/?$ /service/web-development [R=301,L]
+RewriteRule ^responsive-web-design-development-services/?$ /service/web-development [R=301,L]
+#RewriteRule ^web-development-solutions/?$ /service/web-development [R=301,L]
+
+ 
+# Redirect old generative AI page to new URL - 13-08-2026 - END
+
+  # 1b) Collapse directory index URLs: /path/index and /path/index.html -> /path/
+  #     Also /index and /index.html -> /
+  #     The (?:.*/)? group forces "index" to sit right after a slash, so
+  #     URLs like /my-index or /price-index are NOT touched.
+  RewriteCond %{REQUEST_URI} !^/(blogs?|api)/ [NC]
+  RewriteCond %{THE_REQUEST} \s/+((?:.*/)?)index(\.html)?[\s?] [NC]
+  RewriteRule ^ https://www.cypherox.com/%1 [R=301,L]
+
+  # 2) Redirect any external .html request to its clean URL
+  #    Matches the ORIGINAL browser request, handles query strings, case-insensitive.
+  #    Absolute target so the www/https normalisation is never lost (no 2-hop chain).
+  RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+  RewriteRule ^ https://www.cypherox.com/%1 [R=301,L]
+
+  # 3) Internally serve the .html file for the clean URL (URL bar stays clean)
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}\.html -f
+  RewriteRule ^(.+?)/?$ $1.html [L]
+
+  RewriteRule ^blogs/ - [L]
+
+  Options -MultiViews
+
+  # Serve a REAL 404 for non-existing files/directories.
+  # (Previously this was "302 -> /404" which returned HTTP 200 = soft 404,
+  #  so Google kept dead URLs indexed and indexed /404 itself.)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ - [L,R=404]
+
+  #RewriteRule ^flutter-app-development-services\.html$ /flutter-app-development-services [R=301,L]
+  
+  ErrorDocument 404 /404.html
+
+
+</IfModule>
+
+# ==============================
+# GZIP COMPRESSION
+# ==============================
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript application/json application/xml image/svg+xml
+</IfModule>
+
+# ==============================
+# BROWSER CACHING
+# ==============================
+<IfModule mod_expires.c>
+  ExpiresActive On
+  # Images - cache for 1 year
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  # CSS, JS - cache for 1 month
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType application/x-javascript "access plus 1 month"
+  # Fonts
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType font/woff "access plus 1 year"
+  ExpiresByType font/ttf "access plus 1 year"
+  # Default
+  ExpiresDefault "access plus 2 days"
+</IfModule>
+
+# ==============================
+# DISABLE ETAGS
+# ==============================
+<IfModule mod_headers.c>
+  Header unset ETag
+  # SECURITY + SPEED HEADERS
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+FileETag None
+
+# ==============================
+# CORS (for fonts & assets)
+# ==============================
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|otf|eot|woff|woff2|svg)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+
+# ==============================
+# PHP HANDLER (cPanel default)
+# ==============================
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+
+ 

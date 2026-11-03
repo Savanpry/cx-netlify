@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <sitemap>
+    <loc>https://www.cypherox.com/pagesitemap.xml</loc>
+    <lastmod>2025-10-16T15:25:00+05:30</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://www.cypherox.com/blogsitemap.xml</loc>
+    <lastmod>2025-10-16T15:25:00+05:30</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://www.cypherox.com/portfoliositemap.xml</loc>
+    <lastmod>2025-10-16T15:25:00+05:30</lastmod>
+  </sitemap>
+
+</sitemapindex>
+

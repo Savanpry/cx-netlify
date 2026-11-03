@@ -1,0 +1,365 @@
+# Cypherox — Full Index
+
+> Cypherox Technologies is an AI-native software and product engineering company (founded 2015) that builds AI agents, generative AI systems, and machine learning products, and takes them from prototype into production. This file is the complete index of every public page on cypherox.com, grouped by area. For a curated, high-signal overview, see https://www.cypherox.com/llms.txt
+
+- Legal name: Cypherox Technologies Pvt. Ltd
+- Founder and CEO: Vipinraj Nair (https://www.linkedin.com/in/vipinraj-nair)
+- Offices: Rajkot, Gujarat, India; Ahmedabad, Gujarat, India; London, United Kingdom
+- LinkedIn: https://www.linkedin.com/company/cypherox-technologies
+- Contact: https://www.cypherox.com/get-in-touch
+- Book a call: https://www.cypherox.com/schedule-a-call
+- Last updated: 2026-09-23
+
+## Company
+
+- [Home](https://www.cypherox.com/): Cypherox overview and primary services.
+- [About Cypherox](https://www.cypherox.com/about-us): Company background, mission, and offices.
+- [Life at Cypherox](https://www.cypherox.com/life-at-cypherox): Team and culture.
+- [Corporate Social Responsibility](https://www.cypherox.com/corporate-social-responsibility): Cypherox CSR programs.
+- [Engagement Models](https://www.cypherox.com/our-engagement-models): How Cypherox structures projects and dedicated team engagements.
+- [Careers](https://www.cypherox.com/career): Open roles.
+- [Get in Touch](https://www.cypherox.com/get-in-touch): Contact form and office details.
+- [Schedule a Call](https://www.cypherox.com/schedule-a-call): Book a call with the Cypherox team.
+- [HTML Sitemap](https://www.cypherox.com/sitemap): Human-readable sitemap of the whole site.
+
+## AI agents and generative AI
+
+- [AI Agent Development Services](https://www.cypherox.com/ai-agent-development-services): Custom multi-step AI agents that call tools and integrate with CRMs, ERPs, and internal APIs; strategy, development, behaviour training, integration, and monitoring.
+- [Generative AI Development Services](https://www.cypherox.com/generative-ai-development-services): LLM applications, RAG pipelines, fine-tuning, domain-specific models, and generative AI agents, with guardrails and audit trails; cloud, private cloud, or on-premises.
+- [AI Development Services](https://www.cypherox.com/ai-development-services): End-to-end AI engineering across agents, generative AI, and machine learning, from discovery through production.
+- [AI & ML Development Services](https://www.cypherox.com/artificial-intelligence-and-machine-learning-services): ML engineering from data preparation and training through deployment and monitoring.
+- [AI & ML Product Development](https://www.cypherox.com/ai-and-ml-product-development-services): Building complete AI-first software products, not just models.
+- [AI Sales Agent for E-Commerce](https://www.cypherox.com/ai-sales-agent-for-ecommerce): AI agents that guide shoppers and support conversion on e-commerce stores.
+- [AI Sales Assistant for E-Commerce](https://www.cypherox.com/ai-sales-assistant-for-ecommerce): Conversational AI shopping assistant for discovery and checkout.
+- [AI App Development](https://www.cypherox.com/ai-app-development-services): Mobile and web applications with AI built in from the start.
+- [AI SaaS Solutions](https://www.cypherox.com/ai-saas-solutions): Engineering for SaaS products that ship AI to their own customers.
+- [Chatbot SaaS Solutions](https://www.cypherox.com/chatbot-saas-solutions): Conversational AI products delivered as SaaS.
+- [AI Chatbot Mobile Apps](https://www.cypherox.com/ai-chatbot-mobile-app-solutions): Chat-based AI assistants for iOS and Android.
+- [Virtual Assistant Services](https://www.cypherox.com/virtual-assistant-services): AI assistants for scheduling, support, and task automation.
+- [Virtual Assistant Apps](https://www.cypherox.com/virtual-assistant-app-solutions): Standalone virtual assistant applications.
+- [AI Language Translator Apps](https://www.cypherox.com/language-translator-app-solutions): Translation apps built on neural machine translation and speech models.
+
+## Machine learning and data
+
+- [Fraud Detection Solutions](https://www.cypherox.com/fraud-detection-solutions): ML models that flag suspicious transactions and behaviour.
+- [Predictive Maintenance](https://www.cypherox.com/predictive-maintenance-services): ML models that forecast equipment failure from sensor and operational data.
+- [Data Analytics Solutions](https://www.cypherox.com/data-analytics-solutions): Data pipelines, business intelligence, and analytics engineering.
+- [AI & Machine Learning Data Solutions](https://www.cypherox.com/ai-and-machine-learning-solutions): Data preparation and data engineering for AI and ML workloads.
+
+## Cloud and DevOps
+
+- [Cloud & DevOps Services](https://www.cypherox.com/cloud-and-devops-services): Cloud architecture, infrastructure, and delivery pipelines, including infrastructure for production AI.
+- [Cloud Migration](https://www.cypherox.com/cloud-migration-services): Moving applications and data to cloud platforms.
+- [Cloud Strategy Consulting](https://www.cypherox.com/cloud-strategy-consulting-services): Platform selection, architecture planning, and cost planning.
+- [Cloud Cost and Performance Tuning](https://www.cypherox.com/cloud-optimization-services): Reducing cloud spend and improving performance.
+- [DevOps Automation](https://www.cypherox.com/devops-automation-services): CI/CD pipelines, infrastructure as code, and release automation.
+- [Continuous Testing & Monitoring](https://www.cypherox.com/continuous-testing-and-monitoring-services): Automated testing and production monitoring.
+
+## Product and platform engineering
+
+- [Services Overview](https://www.cypherox.com/services): Full list of Cypherox service lines.
+- [Technology Overview](https://www.cypherox.com/technology): Languages and frameworks Cypherox works with.
+- [UI/UX Design](https://www.cypherox.com/ui-ux-design-services): Product design, user research, and interface design.
+- [ERP & CRM Development](https://www.cypherox.com/erp-and-crm-development-services): Custom ERP and CRM systems and integrations.
+- [Consulting Services](https://www.cypherox.com/consulting-services): Technology and product consulting.
+- [IT Consulting](https://www.cypherox.com/it-consulting-services): Technology strategy and architecture advisory.
+- [Mobile App Consulting](https://www.cypherox.com/mobile-app-development-consulting-services): Advisory for mobile product planning.
+- [Convert PHP Website into App](https://www.cypherox.com/convert-php-website-into-app-services): Turning existing PHP websites into applications.
+
+## SaaS and application solutions
+
+- [SaaS App Development](https://www.cypherox.com/saas-app-development-services): Multi-tenant SaaS products from MVP through growth.
+- [SaaS Web Applications](https://www.cypherox.com/saas-web-application-development-services): Browser-based SaaS product development.
+- [SaaS Mobile Applications](https://www.cypherox.com/saas-mobile-applications-services): Mobile apps for SaaS products.
+- [SaaS API Integration](https://www.cypherox.com/saas-api-integration-services): Connecting SaaS products with third-party and internal systems.
+- [SaaS Cloud Solutions](https://www.cypherox.com/saas-cloud-solutions): Cloud hosting and infrastructure for SaaS products.
+- [B2B Order Management App](https://www.cypherox.com/b2b-order-management-app-solutions): Order management applications for B2B.
+- [B2C Order Management App](https://www.cypherox.com/b2c-order-management-app-solutions): Order management applications for B2C.
+- [B2C E-Commerce Platform](https://www.cypherox.com/b2c-ecommerce-platform-solutions): B2C e-commerce platform builds.
+- [Travel Apps Solutions](https://www.cypherox.com/travel-apps-solutions): Travel and booking applications.
+- [Entertainment Apps Solutions](https://www.cypherox.com/entertainment-apps-solutions): Entertainment and media applications.
+- [Education Apps Solutions](https://www.cypherox.com/education-apps-solutions): Learning and education applications.
+- [Fitness App Solutions](https://www.cypherox.com/fitness-app-solutions): Health and fitness applications.
+
+## Application development (by platform and language)
+
+- [Application Development](https://www.cypherox.com/application-development): iOS, Android, and cross-platform mobile app development.
+- [iOS App Development](https://www.cypherox.com/ios-app-development-services)
+- [Swift App Development](https://www.cypherox.com/swift-app-development-services)
+- [Objective-C App Development](https://www.cypherox.com/objective-c-app-development-services)
+- [Android App Development](https://www.cypherox.com/android-app-development-services)
+- [Kotlin App Development](https://www.cypherox.com/kotlin-app-development-services)
+- [Java App Development](https://www.cypherox.com/java-app-development-services)
+- [Cross-Platform App Development](https://www.cypherox.com/cross-platform-app-development-services)
+- [Dart App Development](https://www.cypherox.com/dart-app-development-services)
+- [Flutter App Development](https://www.cypherox.com/flutter-app-development-services)
+- [React Native App Development](https://www.cypherox.com/react-native-app-development-services)
+- [Xamarin App Development](https://www.cypherox.com/xamarin-app-development-services)
+- [Framework App Development](https://www.cypherox.com/framework-app-development-services)
+- [Golang App Development](https://www.cypherox.com/golang-app-development-services)
+- [B2B Mobile App Development](https://www.cypherox.com/b2b-mobile-app-development-services)
+- [B2C Mobile App Development](https://www.cypherox.com/b2c-mobile-app-development-services)
+
+## Web development (by stack)
+
+- [Web Development](https://www.cypherox.com/web-development-solutions): Custom web applications, front end and back end.
+- [Front-End Development](https://www.cypherox.com/front-end-development-services)
+- [AngularJS Development](https://www.cypherox.com/angularjs-development-services)
+- [ReactJS Development](https://www.cypherox.com/reactjs-development-services)
+- [VueJS Development](https://www.cypherox.com/vuejs-development-services)
+- [Back-End Development](https://www.cypherox.com/back-end-development-services)
+- [Node.js Development](https://www.cypherox.com/nodejs-development-services)
+- [Express.js Development](https://www.cypherox.com/express-js-development-services)
+- [PHP Development](https://www.cypherox.com/php-development-services)
+- [Python Web Development](https://www.cypherox.com/python-web-development-services)
+- [Full-Stack Development](https://www.cypherox.com/full-stack-development-services)
+- [MEAN Stack Development](https://www.cypherox.com/mean-stack-development-services)
+- [MERN Stack Development](https://www.cypherox.com/mern-stack-development-services)
+
+## E-commerce and CMS
+
+- [E-Commerce Development](https://www.cypherox.com/e-commerce-development-services): Custom and platform-based online stores.
+- [Shopify Development](https://www.cypherox.com/shopify-development-services)
+- [Magento Development](https://www.cypherox.com/magento-development-services)
+- [WooCommerce Development](https://www.cypherox.com/woocommerce-development-services)
+- [BigCommerce Development](https://www.cypherox.com/bigcommerce-development-services)
+- [CMS Development](https://www.cypherox.com/cms-development-company): WordPress, Drupal, Joomla, headless, and Webflow.
+- [WordPress Development](https://www.cypherox.com/wordpress-development-services)
+- [Joomla Development](https://www.cypherox.com/joomla-development-services)
+- [Drupal Development](https://www.cypherox.com/drupal-development-services)
+- [Headless Development](https://www.cypherox.com/headless-development-services)
+- [Webflow Development](https://www.cypherox.com/webflow-development-services)
+
+## Blockchain
+
+- [Blockchain Development](https://www.cypherox.com/blockchain-development-services): Blockchain applications and smart contracts.
+- [Smart Contract Development](https://www.cypherox.com/smart-contract-development-services)
+- [Blockchain Security](https://www.cypherox.com/blockchain-security-services)
+- [Blockchain Maintenance](https://www.cypherox.com/blockchain-maintenance-services)
+
+## VR and AR
+
+- [VR & AR Solutions](https://www.cypherox.com/virtual-reality-and-augmented-reality-solutions): Virtual and augmented reality application development.
+- [AR/VR App Development](https://www.cypherox.com/ar-vr-app-development-services)
+- [AR/VR Integration](https://www.cypherox.com/ar-vr-integration-solutions)
+- [VR/AR Support & Maintenance](https://www.cypherox.com/vr-ar-support-and-maintenance-services)
+
+## Industries
+
+- [Industries Overview](https://www.cypherox.com/service-industry): All industries Cypherox serves.
+- [Healthcare](https://www.cypherox.com/healthcare-industry-services): Patient monitoring, telehealth, clinical workflow automation, and AI voice agents.
+- [Finance](https://www.cypherox.com/finance-industry-services): Software and AI for financial services, including fraud detection.
+- [Banking](https://www.cypherox.com/banking-industry-services): Digital banking applications and AI for banking operations.
+- [Logistics](https://www.cypherox.com/logistics-industry-services): Supply chain, fleet, and delivery management software.
+- [Transportation](https://www.cypherox.com/transportation-industry-services): Transportation and mobility software.
+- [E-Commerce](https://www.cypherox.com/ecommerce-industry-services): Online retail platforms and AI shopping assistants.
+- [Retail](https://www.cypherox.com/retail-industry-services): Retail operations, inventory, and customer-facing applications.
+- [Education](https://www.cypherox.com/education-industry-services): Education software and platforms.
+- [E-Learning](https://www.cypherox.com/e-learning-industry-services): Learning platforms and e-learning apps.
+- [Manufacturing](https://www.cypherox.com/manufacturing-industry-services): Manufacturing software including predictive maintenance.
+- [Energy](https://www.cypherox.com/energy-industry-services): Energy and utilities software.
+- [Agriculture](https://www.cypherox.com/agriculture-industry-services): Agriculture and agri-tech software.
+- [Media & Entertainment](https://www.cypherox.com/media-and-entertainment-industry-services): Media and entertainment platforms.
+- [Entertainment](https://www.cypherox.com/entertainment-industry-services): Entertainment applications.
+- [Social Networking](https://www.cypherox.com/social-networking-industry-services): Social networking platforms.
+- [On-Demand Delivery](https://www.cypherox.com/on-demand-delivery-industry-services): On-demand and delivery platforms.
+- [Health & Fitness](https://www.cypherox.com/health-and-fitness-industry-services): Health and fitness applications.
+- [Food & Drink](https://www.cypherox.com/food-and-drink-industry-services): Food, drink, and restaurant software.
+- [Travel & Tourism](https://www.cypherox.com/travel-and-tourism-industry-services): Booking, itinerary, and travel management platforms.
+- [Real Estate](https://www.cypherox.com/real-estate-industry-services): Property listing, management, and real estate CRM software.
+
+## Hire engineers and designers
+
+- [Hire Dedicated Developers](https://www.cypherox.com/hire-dedicated-developers): Dedicated teams that extend the client's product team.
+- [Hire AI Developers](https://www.cypherox.com/hire-ai-developers)
+- [Hire ML Developers](https://www.cypherox.com/hire-ml-developers)
+- [Hire Full-Stack Developers](https://www.cypherox.com/hire-full-stack-developer)
+- [Hire DevOps Engineers](https://www.cypherox.com/hire-devops-developers)
+- [Hire AWS Developers](https://www.cypherox.com/hire-aws-developers)
+- [Hire Data Analytics Specialists](https://www.cypherox.com/hire-data-analytics)
+- [Hire Blockchain Developers](https://www.cypherox.com/hire-blockchain-developers)
+- [Hire AR Developers](https://www.cypherox.com/hire-ar-developers)
+- [Hire VR Developers](https://www.cypherox.com/hire-vr-developers)
+- [Hire Mobile App Developers](https://www.cypherox.com/hire-mobile-app-developers)
+- [Hire iOS Developer](https://www.cypherox.com/hire-ios-developer)
+- [Hire Android Developer](https://www.cypherox.com/hire-android-developer)
+- [Hire Swift Developers](https://www.cypherox.com/hire-swift-developers)
+- [Hire Kotlin Developers](https://www.cypherox.com/hire-kotlin-developers)
+- [Hire Flutter Developers](https://www.cypherox.com/hire-flutter-developers)
+- [Hire React Native Developers](https://www.cypherox.com/hire-react-native-developers)
+- [Hire Dart Developers](https://www.cypherox.com/hire-dart-developers)
+- [Hire Golang Developers](https://www.cypherox.com/hire-golang-developers)
+- [Hire Java Developers](https://www.cypherox.com/hire-java-developers)
+- [Hire Web Developers](https://www.cypherox.com/hire-web-developers)
+- [Hire Front-End Developer](https://www.cypherox.com/hire-a-front-end-web-developer)
+- [Hire AngularJS Developers](https://www.cypherox.com/hire-angularjs-developers)
+- [Hire ReactJS Developers](https://www.cypherox.com/hire-reactjs-developers)
+- [Hire VueJS Developers](https://www.cypherox.com/hire-vuejs-developers)
+- [Hire Back-End Developer](https://www.cypherox.com/hire-a-back-end-web-developer)
+- [Hire Node.js Developers](https://www.cypherox.com/hire-nodejs-developers)
+- [Hire Laravel Developers](https://www.cypherox.com/hire-laravel-developers)
+- [Hire Python Developers](https://www.cypherox.com/hire-python-developers)
+- [Hire PHP Developers](https://www.cypherox.com/hire-php-developers)
+- [Hire E-Commerce Developers](https://www.cypherox.com/hire-e-commerce-developers)
+- [Hire WordPress Developers](https://www.cypherox.com/hire-wordpress-developers)
+- [Hire Shopify Developers](https://www.cypherox.com/hire-shopify-developers)
+- [Hire Magento Developers](https://www.cypherox.com/hire-magento-developers)
+- [Hire BigCommerce Developers](https://www.cypherox.com/hire-bigcommerce-developers)
+- [Hire WooCommerce Developers](https://www.cypherox.com/hire-woocommerce-developers)
+- [Hire Chatbot Developers](https://www.cypherox.com/hire-chatbot-developers)
+- [Hire Graphic Designers](https://www.cypherox.com/hire-graphic-designers)
+- [Hire UI/UX Designers](https://www.cypherox.com/hire-ui-ux-designers)
+- [Hire Digital Marketers](https://www.cypherox.com/hire-digital-marketers)
+
+## Case studies (with reported outcomes)
+
+- [AI Healthcare Voicebot for Patient Monitoring](https://www.cypherox.com/our-work/ai-healthcare-voicebot-patient-monitoring): Outbound AI voice agent running scheduled check-in calls, extracting clinical data, scoring risk, and alerting doctors; weekly follow-up coverage rose from ~30% to 100%, saving 200+ staff hours/month.
+- [AI Lead Qualification Engine for a B2B SaaS Company](https://www.cypherox.com/our-work/ai-lead-qualification-saas-revenue-growth-case-study): ML lead scoring and routing; lead-to-demo conversion rose from 1.8% to 6.3%, MRR from $28K to $84K, sales cycle from 42 to 27 days.
+- [Luxury Furniture E-Commerce Platform](https://www.cypherox.com/our-work/luxury-furniture-ecommerce-platform-case-study): Custom e-commerce platform for a luxury furniture retailer.
+- [Custom Email Marketing Platform](https://www.cypherox.com/our-work/custom-email-marketing-platform-case-study): Purpose-built email marketing and campaign platform.
+- [Luxury Home SEO Case Study](https://www.cypherox.com/our-work/luxury-home-seo-case-study): Search visibility program for a luxury home brand.
+- [Foster Care Website Design](https://www.cypherox.com/our-work/foster-care-web-design-case-study): Website design and build for a foster care organisation.
+- [LuxeLife Brand Identity](https://www.cypherox.com/our-work/luxelife-brand-identity-case-study): Brand identity design project.
+
+## Portfolio projects
+
+Individual project pages in the Cypherox portfolio. See the portfolio hub for context on each.
+
+- [Our Work (portfolio hub)](https://www.cypherox.com/our-work/): All portfolio projects and case studies.
+- [Appura](https://www.cypherox.com/our-work/appura)
+- [Clixora](https://www.cypherox.com/our-work/clixora)
+- [Codastra](https://www.cypherox.com/our-work/codastra)
+- [Convertia](https://www.cypherox.com/our-work/convertia)
+- [Funnexa](https://www.cypherox.com/our-work/funnexa)
+- [Inboxora](https://www.cypherox.com/our-work/inboxora)
+- [Launchora](https://www.cypherox.com/our-work/launchora)
+- [Leadspire](https://www.cypherox.com/our-work/leadspire)
+- [Mailoria](https://www.cypherox.com/our-work/mailoria)
+- [Merchanza](https://www.cypherox.com/our-work/merchanza)
+- [Mobeez](https://www.cypherox.com/our-work/mobeez)
+- [Pathvio](https://www.cypherox.com/our-work/pathvio)
+- [Pixelora](https://www.cypherox.com/our-work/pixelora)
+- [Postlyst](https://www.cypherox.com/our-work/postlyst)
+- [Salespring](https://www.cypherox.com/our-work/salespring)
+- [Sendoria](https://www.cypherox.com/our-work/sendoria)
+- [Shopharia](https://www.cypherox.com/our-work/shopharia)
+- [Shopleaf](https://www.cypherox.com/our-work/shopleaf)
+- [Sitevio](https://www.cypherox.com/our-work/sitevio)
+- [Swiftlyst](https://www.cypherox.com/our-work/swiftlyst)
+- [Tapora](https://www.cypherox.com/our-work/tapora)
+- [Templix](https://www.cypherox.com/our-work/templix)
+- [Vendra](https://www.cypherox.com/our-work/vendra)
+- [Vistamart](https://www.cypherox.com/our-work/vistamart)
+- [Weboria](https://www.cypherox.com/our-work/weboria)
+
+## Guides and insights: AI agents
+
+- [What Is an AI Agent](https://www.cypherox.com/blog/what-is-an-ai-agent)
+- [Types of AI Agents](https://www.cypherox.com/blog/types-of-ai-agents)
+- [AI Agents vs Chatbots vs Copilots](https://www.cypherox.com/blog/ai-agents-vs-chatbots-vs-copilots)
+- [AI Agent Architecture Guide](https://www.cypherox.com/blog/ai-agent-architecture-guide)
+- [How to Build AI Agents for Enterprise](https://www.cypherox.com/blog/how-to-build-ai-agents-for-enterprise)
+- [Knowledge Base Design for AI Agents](https://www.cypherox.com/blog/knowledge-base-design-for-ai-agents)
+- [Tool Calling in AI Agents](https://www.cypherox.com/blog/tool-calling-in-ai-agents)
+- [What Is a Multi-Agent System](https://www.cypherox.com/blog/what-is-a-multi-agent-system)
+- [AI Agent Use Cases by Industry](https://www.cypherox.com/blog/ai-agent-use-cases-by-industry)
+- [AI Agent Implementation Benchmarks by Industry](https://www.cypherox.com/blog/ai-agent-implementation-benchmarks-by-industry)
+- [Agentic AI Trends](https://www.cypherox.com/blog/agentic-ai-trends)
+- [How AI Agents Transform Workflows Through Automation](https://www.cypherox.com/blog/how-ai-agents-transforming-workflows-through-automation)
+- [Agentic AI for Software Development and Business Growth](https://www.cypherox.com/blog/agentic-ai-software-development-business-growth)
+- [OpenClaw / Atrophic AI Agent Guide 2026](https://www.cypherox.com/blog/openclaw-atrophic-ai-agent-guide-2026)
+
+## Guides and insights: AI voice, sales, and commerce
+
+- [How to Build an Enterprise AI Voice Agent](https://www.cypherox.com/blog/how-to-build-enterprise-ai-voice-agent)
+- [Custom vs Off-the-Shelf AI Voice Agents](https://www.cypherox.com/blog/custom-vs-off-the-shelf-ai-voice-agent)
+- [AI Voice Agent Cost](https://www.cypherox.com/blog/ai-voice-agent-cost)
+- [AI Sales Agent vs E-Commerce Chatbot](https://www.cypherox.com/blog/ai-sales-agent-vs-ecommerce-chatbot)
+- [What Is an AI Shopping Assistant](https://www.cypherox.com/blog/what-is-an-ai-shopping-assistant)
+- [Agentic Commerce and Payment Rails for Fintech](https://www.cypherox.com/blog/agentic-commerce-payment-rails-fintech)
+
+## Guides and insights: building, buying, and hiring for AI
+
+- [AI Prototype to Production](https://www.cypherox.com/blog/ai-prototype-to-production-engineering)
+- [Build or Buy an AI Solution: A CTO Framework](https://www.cypherox.com/blog/build-or-buy-ai-solution-cto-framework)
+- [AI Development Cost](https://www.cypherox.com/blog/ai-development-cost)
+- [How to Vet an AI Product Development Partner](https://www.cypherox.com/blog/how-to-vet-ai-product-development-partner)
+- [How to Hire an AI Developer](https://www.cypherox.com/blog/how-to-hire-ai-developer)
+- [Building AI Features into a Project Management Product](https://www.cypherox.com/blog/build-ai-features-project-management-product)
+- [AI Development Company vs Software Development Company](https://www.cypherox.com/blog/ai-vs-software-development-company)
+- [Top AI Agent Development Companies](https://www.cypherox.com/blog/top-ai-agent-development-companies)
+- [Top Production AI Engineering Companies](https://www.cypherox.com/blog/top-production-ai-engineering-companies)
+- [Top AI Development Companies in the USA](https://www.cypherox.com/blog/top-ai-development-companies-usa)
+- [AI App Development Services for Startups](https://www.cypherox.com/blog/ai-app-development-services-for-startups)
+- [How AI Trends and Artificial Intelligence Are Changing Technology](https://www.cypherox.com/blog/how-ai-trends-and-artificial-intelligence-changing-technology)
+
+## Guides and insights: clone solutions
+
+- [How to Build a Character AI Clone](https://www.cypherox.com/blog/how-to-build-character-ai-clone)
+- [How to Build a CrushOn AI Clone App](https://www.cypherox.com/blog/how-to-build-crushon-ai-clone-app)
+- [How to Build an AI Companion App like Replika](https://www.cypherox.com/blog/how-to-build-ai-companion-app-like-replika)
+- [How to Build an AI Influencer Generator Clone](https://www.cypherox.com/blog/how-to-build-ai-influencer-generator-clone)
+- [Ada Health Clone Solutions](https://www.cypherox.com/blog/ada-health-clone-solutions)
+- [Multipass AI Clone Solutions Guide](https://www.cypherox.com/blog/multipass-ai-clone-solutions-guide)
+- [Polybuzz AI Clone Solutions](https://www.cypherox.com/blog/polybuzz-ai-clone-solutions)
+- [Rizz AI Clone Solutions](https://www.cypherox.com/blog/rizz-ai-clone-solutions)
+- [Opus Clip AI Clone Development Guide](https://www.cypherox.com/blog/opus-clip-ai-clone-development-guide)
+- [Talkie AI Clone Development](https://www.cypherox.com/blog/talkie-ai-clone-development)
+- [Glean AI Clone Development](https://www.cypherox.com/blog/glean-ai-clone-development)
+
+## Guides and insights: web, e-commerce, and digital
+
+- [Why a Business Needs a Professional Website Design](https://www.cypherox.com/blog/why-business-needs-a-professional-website-design)
+- [Web Development Services a Business Needs](https://www.cypherox.com/blog/web-development-services-business-need)
+- [Right Types of Web Development Services for Business](https://www.cypherox.com/blog/right-types-of-web-development-services-for-business)
+- [Web Development's Role in Building a Strong Online Presence](https://www.cypherox.com/blog/web-development-role-for-building-strong-online-presence)
+- [Web Development for Customer Engagement and Retention](https://www.cypherox.com/blog/web-development-customer-engagement-retention)
+- [Key Features of Professional Website Development](https://www.cypherox.com/blog/key-features-professional-website-development)
+- [How to Increase E-Commerce Conversion Rate](https://www.cypherox.com/blog/increase-ecommerce-conversion-rate)
+- [E-Commerce Cart Abandonment](https://www.cypherox.com/blog/ecommerce-cart-abandonment)
+- [Scalable and Secure Online E-Commerce Store](https://www.cypherox.com/blog/scalable-and-secure-online-ecommerce-store)
+- [E-Commerce Video Marketing: Product Demos and UGC](https://www.cypherox.com/blog/ecommerce-video-marketing-product-demos-and-ugc)
+- [Beginner's Guide to Webflow No-Code Design](https://www.cypherox.com/blog/beginners-guide-to-webflow-no-code-design)
+- [Challenges in Blockchain App Development and Solutions](https://www.cypherox.com/blog/challenges-in-blockchain-app-development-and-solutions)
+- [PWA Development Services and Pricing](https://www.cypherox.com/blog/pwa-development-services-pricing)
+- [AI in Digital Marketing: How Brands Stay Ahead](https://www.cypherox.com/blog/ai-in-digital-marketing-how-brands-stay-ahead)
+- [What Is Answer Engine Optimization](https://www.cypherox.com/blog/what-is-answer-engine-optimization)
+- [How to Build an App like Discord](https://www.cypherox.com/blog/how-to-build-an-app-like-discord)
+- [Travel Software Development Cost](https://www.cypherox.com/blog/travel-software-development-cost)
+- [Custom Order Management System: Build vs Buy](https://www.cypherox.com/blog/custom-order-management-system-build-vs-buy)
+- [Digital Transformation Trends](https://www.cypherox.com/blog/digital-transformation-trends)
+- [How to Hire a Digital Transformation Partner](https://www.cypherox.com/blog/how-to-hire-digital-transformation-partner)
+
+## Blog and news hubs
+
+- [Blog](https://www.cypherox.com/blog/): All articles.
+- [Blog: Web Development](https://www.cypherox.com/blog/web-development/)
+- [Blog: App Development](https://www.cypherox.com/blog/app-development/)
+- [Blog: E-Commerce Development](https://www.cypherox.com/blog/ecommerce-development/)
+- [Blog: Digital Marketing](https://www.cypherox.com/blog/digital-marketing/)
+- [Blog: AI Development](https://www.cypherox.com/blog/ai-development/)
+- [Blog: Trending Tech](https://www.cypherox.com/blog/trending-tech/)
+- [News](https://www.cypherox.com/news/): Company news.
+- [Animal Welfare CSR: Street Dog Feeding, Rajkot](https://www.cypherox.com/news/animal-welfare-csr-street-dog-feeding-rajkot): CSR initiative news.
+
+## Clone solutions (platform builds)
+
+- [AI Clone Solutions](https://www.cypherox.com/clone-solutions): Hub for custom AI apps modelled on the feature sets of existing AI products.
+- [Character AI Clone](https://www.cypherox.com/character-ai-clone)
+- [Replika AI Clone](https://www.cypherox.com/replika-ai-clone)
+- [Candy AI Clone](https://www.cypherox.com/candy-ai-clone)
+- [Opus Clip Clone](https://www.cypherox.com/opus-clip-clone)
+- [Multipass AI Clone](https://www.cypherox.com/multipass-ai-clone)
+- [Ada Health Clone](https://www.cypherox.com/ada-health-clone)
+- [Rizz AI Clone](https://www.cypherox.com/rizz-ai-clone)
+- [Polybuzz AI Clone](https://www.cypherox.com/polybuzz-ai-clone)
+- [Talkie AI Clone](https://www.cypherox.com/talkie-ai-clone)
+- [Glean AI Clone](https://www.cypherox.com/glean-ai-clone)
+
+## Trust, partnerships, and legal
+
+- [Shopify Partnership](https://www.cypherox.com/shopify-partnership): Cypherox is an official Shopify Partner.
+- [Jibble Partnership](https://www.cypherox.com/jibble-partnership-free-time-tracking-software): Cypherox is an official partner of Jibble, a time tracking platform.
+- [Privacy Policy](https://www.cypherox.com/privacy-policy): How Cypherox handles personal data.
+- [Terms & Conditions](https://www.cypherox.com/terms-conditions): Terms of use.
+- [Fraud Alert](https://www.cypherox.com/fraud-alert): Warning about impersonation and fraudulent job or payment requests using the Cypherox name.

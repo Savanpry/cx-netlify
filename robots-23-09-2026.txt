@@ -1,0 +1,56 @@
+# ==========================================================
+# 1. CONTENT SIGNALS (Modern AI Directives)
+# ==========================================================
+# search:   Allows traditional search engine indexing.
+# ai-input: ALLOWS AI platforms to cite you in real-time answers.
+# ai-train: FORBIDS the use of content for training AI models.
+
+User-agent: *
+
+# ==========================================================
+# 2. ALLOWED FOR CITATIONS (The "Invite" List)
+# ==========================================================
+# We explicitly Allow these to ensure they can crawl for citations.
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Gemini
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Meta-ExternalAgent
+User-agent: DuckAssistBot
+Allow: /
+
+# ==========================================================
+# 3. GLOBAL BLOCKS & ASSETS
+# ==========================================================
+User-agent: *
+Disallow: /404
+Disallow: /private/
+Disallow: /no-bots/
+##Disallow: /*?          # Blocks internal search result pages
+Allow: /*.js$
+Allow: /*.css$
+Allow: /sitemap.xml
+Allow: /pagesitemap.xml
+Allow: /blogsitemap.xml
+Allow: /portfoliositemap.xml
+
+# ==========================================================
+# 4. BLOCKED SCRAPERS (No Citations, Just Scraping)
+# ==========================================================
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Amazonbot
+Disallow: /
+
+# ==========================================================
+# 5. SITEMAPS
+# ==========================================================
+Sitemap: https://www.cypherox.com/sitemap.xml
+Sitemap: https://www.cypherox.com/pagesitemap.xml
+Sitemap: https://www.cypherox.com/blogsitemap.xml
+Sitemap: https://www.cypherox.com/portfoliositemap.xml

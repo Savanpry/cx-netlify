@@ -1,0 +1,74 @@
+# ==========================================================
+# Cypherox robots.txt
+# Last updated: 2026-09-23
+# Posture: allow search + AI citation; block AI training.
+# ==========================================================
+
+# ----------------------------------------------------------
+# 1. DEFAULT — all crawlers without a specific group below
+# ----------------------------------------------------------
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+Disallow: /blog/?q=
+Disallow: /blog/?*&q=
+Disallow: /blogs/api/
+Allow: /
+
+# ----------------------------------------------------------
+# 2. SEARCH ENGINES
+# ----------------------------------------------------------
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: DuckDuckBot
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+Disallow: /blog/?q=
+Disallow: /blog/?*&q=
+Disallow: /blogs/api/
+Allow: /
+
+# ----------------------------------------------------------
+# 3. AI SEARCH / LIVE-ANSWER CRAWLERS (produce citations)
+# ----------------------------------------------------------
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+Disallow: /blog/?q=
+Disallow: /blog/?*&q=
+Disallow: /blogs/api/
+Allow: /
+
+# ----------------------------------------------------------
+# 4. AI TRAINING CRAWLERS — blocked (no citation value)
+# ----------------------------------------------------------
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Meta-ExternalAgent
+User-agent: cohere-ai
+User-agent: CCBot
+User-agent: Diffbot
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: ImagesiftBot
+Disallow: /
+
+# ----------------------------------------------------------
+# 5. SITEMAPS
+# ----------------------------------------------------------
+Sitemap: https://www.cypherox.com/sitemap.xml
+Sitemap: https://www.cypherox.com/pagesitemap.xml
+Sitemap: https://www.cypherox.com/blogsitemap.xml
+Sitemap: https://www.cypherox.com/portfoliositemap.xml
+
+# AI guidance files
+llms.txt:      https://www.cypherox.com/llms.txt
+llms-full.txt: https://www.cypherox.com/llms-full.txt
