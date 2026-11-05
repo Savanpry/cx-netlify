@@ -2187,7 +2187,7 @@ if (!/Chrome-Lighthouse/.test(navigator.userAgent)) {
     });
 
     // Toggle second-level menu
-    $(".second-sub-menu-li > a .submenu-toggle").click(function (e) {
+    $(".second-sub-menu-li > a .submenu-toggle, .second-sub-menu-li > span .submenu-toggle").click(function (e) {
       e.preventDefault();
       e.stopPropagation();
 
